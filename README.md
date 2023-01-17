@@ -1,6 +1,10 @@
 # Praktikum-11
 # Pertemuan !5
 
+### Nama  = Azhyka Rizki Ramadhan
+### NIM   = 312210287
+### Kelas = TI.22.A3
+
 <img width="960" alt="ini1" src="https://user-images.githubusercontent.com/118233561/212888817-db3ef334-6829-4163-885b-f4d5561fe704.png">
 
 ## Penjelasan
