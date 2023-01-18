@@ -14,9 +14,12 @@ data secara lebih praktis bahkan dalam waktu yang lebih singkat.
 
 
 bahan yang dibutuhkan adalah 
-1 Panda
-2 BeautifulSoup
-3 Requests
+
+#### 1 Panda
+
+#### 2 BeautifulSoup
+
+#### 3 Requests
 
 untuk install Panda gunakan
 
