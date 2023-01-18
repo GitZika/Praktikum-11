@@ -5,7 +5,8 @@
 ### NIM   = 312210287
 ### Kelas = TI.22.A3
 
-<img width="960" alt="ini1" src="https://user-images.githubusercontent.com/118233561/212888817-db3ef334-6829-4163-885b-f4d5561fe704.png">
+![tugas 1](https://user-images.githubusercontent.com/118233561/213087209-1562671f-4fed-4a55-ac13-1b0d5e41a687.png)
+
 
 ## Penjelasan
 
@@ -17,7 +18,8 @@ import pandas as pd digunakan untuk mengimport library pandas dan menyebutnya se
 
 from bs4 import BeautifulSoup digunakan untuk mengimport class BeautifulSoup dari package BeautifulSoup4. Class BeautifulSoup digunakan untuk mengelola dan mengolah data dari HTML atau XML.
 
-<img width="562" alt="ini2" src="https://user-images.githubusercontent.com/118233561/212888827-276b704b-1f68-4b17-9ff3-4f54cccffb38.png">
+![tugas 2](https://user-images.githubusercontent.com/118233561/213087247-4c211c2b-c059-4c0d-8aff-8828d073ebc9.png)
+
 
 ## Penjelasan
 
