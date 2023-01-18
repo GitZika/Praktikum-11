@@ -31,5 +31,6 @@ Setelah itu, kodingan menggunakan library pandas untuk membuat dataframe dari li
 
 ## OUTPUT
 
-## <img width="368" alt="image" src="https://user-images.githubusercontent.com/118233561/212889369-b30d4cbc-fe7a-4626-aad8-48509f83981c.png">
+<img width="427" alt="Screenshot 2023-01-18 115906" src="https://user-images.githubusercontent.com/118233561/213087843-d1c50377-b6a0-46de-b0bb-13af84255ea5.png">
+
 
