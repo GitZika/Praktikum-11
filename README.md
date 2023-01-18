@@ -85,15 +85,6 @@ print(df)
 
 ![tugas 2](https://user-images.githubusercontent.com/118233561/213087247-4c211c2b-c059-4c0d-8aff-8828d073ebc9.png)
 
-
-## Penjelasan
-
-mengambil data lowongan kerja dari situs web Glints. Dengan menggunakan library Python 'requests', kodingan mengirim permintaan GET ke URL "https://glints.com/id/lowongan-kerja" yang merupakan halaman web yang berisi informasi lowongan kerja. Kemudian, dengan menggunakan library 'BeautifulSoup', kodingan menganalisis konten halaman web yang didapat dari permintaan GET tersebut dengan menggunakan parser HTML.
-
-Selanjutnya, kodingan mencari semua elemen HTML dengan atribut 'div' dan 'id' yang sesuai, yaitu '__next'. Kemudian, dari elemen-elemen tersebut, kodingan mengekstrak informasi pekerjaan, lokasi, dan nama perusahaan dengan mencari elemen yang memiliki atribut 'class' yang sesuai. Informasi yang diambil kemudian disimpan dalam sebuah list yang sesuai.
-
-Setelah itu, kodingan menggunakan library pandas untuk membuat dataframe dari list yang didapat dan menyimpannya dalam variabel 'df'. Kemudian kodingan mencetak dataframe tersebut, sehingga kita dapat melihat informasi lowongan kerja yang diambil dari situs web Glints.
-
 ## OUTPUT 
 
 <img width="427" alt="Screenshot 2023-01-18 115906" src="https://user-images.githubusercontent.com/118233561/213090876-7b036dc5-72e8-400f-8b0e-9174c9cb0802.png">
